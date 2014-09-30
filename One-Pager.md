@@ -11,7 +11,7 @@ Among others:
 - Death Certificates, as compiled on the National Vital Statistics System by the Centers for Disease Control and Prevention.
 - National Violent Death Reporting System.
 - FBI UCR.
-- Supplementary Hoicide Report forms.
+- Supplementary Homicide Report forms.
 
 The main limitations in all of them is the lack of an standardized model of data collection across agencies, along with “wide” but not “deep” data collection, purposely made to avoid incrimination of police officers during ongoing investigations.
 
